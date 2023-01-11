@@ -25,5 +25,17 @@
   "name": "my-webpack-project",
   "dependencies": {
     "eslint-webpack-plugin": "^3.2.0"
-  }
+  },
+  "main": "garage.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eratiani/async--cars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eratiani/async--cars/issues"
+  },
+  "homepage": "https://github.com/eratiani/async--cars#readme"
 }
